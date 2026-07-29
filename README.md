@@ -1,2 +1,2 @@
 # selenium
-store selenium automation test script
+store selenium automation test script latest
